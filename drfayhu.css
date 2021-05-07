@@ -1,0 +1,140 @@
+#intro{
+text-align:center;
+font-family: 'Mandali', sans-serif;
+margin-top:50px;
+font-size:22px;
+inline-height:10px;
+padding-left:200px;padding-right:200px;
+}
+
+#services{
+   background-color:#E8F8F9;}
+
+#btn{
+height: 100px;
+  width: 100px;
+  background-color: white ;
+  display: inline-block;
+  width:100%;
+  border:none;
+  margin-bottom:1.5rem;
+  padding-bottom:10px;
+  padding-top:25px;
+  font-weight:950;
+  color:black;
+  font-size:15px;
+  font-family: 'Mandali', sans-serif;
+}
+
+#btn:hover{
+    background-color:#7DD0D7;
+    color:white;
+
+}
+#services{
+padding-top:20px;
+border-radius:2rem;
+}
+
+#about{
+padding-top:50px;
+border-radius:2rem;
+background-color:#E8F8F9;
+padding-bottom:25px;
+}
+
+#abt{
+font-family: 'Mandali', sans-serif;
+margin-bottom:35px;
+font-size:20px;
+}
+
+h1{
+font-family: 'Great Vibes', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Viga', sans-serif;
+
+}
+
+#wrkhrs{
+padding-top:50px;
+padding-bottom:50px;
+font-family: 'Mandali', sans-serif;
+
+}
+#wrk{
+width:570px;
+height:560px;
+
+}
+#car1{
+margin-left:-30rem;
+padding-top:100px;
+top:0;
+}
+
+#apnt{
+background-color:#7DD0D7;
+}
+
+#apnt:hover{
+background-color:#ffff;
+}
+
+#team{
+text-align:center;
+padding-left:100px;padding-right:100px;
+padding-top:30px;
+margin-top:30px;
+font-family: 'Mandali', sans-serif;
+}
+
+h6{
+    color:#7DD0D7;
+font-family: 'Mandali', sans-serif;
+}
+
+#insurance{
+text-align:center;
+padding-left:100px;padding-right:100px;
+padding-top:50px;
+margin-top:30px;
+font-family: 'Mandali', sans-serif;
+inline-height:20px;
+border-radius:2rem;
+margin-bottom:20px;
+
+}
+#loc{
+border-radius:2rem;
+padding-top:50px;
+margin-top:27px;
+TEXT-ALIGN:CENTER;
+background-color:#E8F8F9;
+padding-bottom:25px;
+}
+#feedbk{
+font-family: 'Mandali', sans-serif;
+padding-top:50px;
+margin-top:30px;
+margin-right:50;
+padding-right:750px;
+}
+
+#lnk{
+    text-align: center;
+
+}
+#links{
+    font-size: 17px;
+    text-decoration:none;
+    padding-left:18px;
+}
+#review{
+text-align:center;
+padding-left:100px;padding-right:100px;
+padding-top:30px;
+margin-top:27px;
+font-family: 'Great Vibes', cursive;
+font-family: 'Pacifico', cursive;
+}
